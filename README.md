@@ -21,7 +21,7 @@ I'm a passionate full-stack developer with over 15 years of experience building 
 
 ## 🏆 GitHub Profile Trophy
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=sumitsandhir&theme=gruvbox&no-frame=true&title=Commit,Stars,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=sumitsandhir&theme=monokai&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
