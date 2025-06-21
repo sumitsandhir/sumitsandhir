@@ -93,5 +93,5 @@ I'm a passionate full-stack developer with over 15 years of experience building 
 
 ## 💬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sumitsandhir/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/sumit-sandhir-890a9510)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:sumit_sandhir@yahoo.com)
