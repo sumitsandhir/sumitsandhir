@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Sumit Sandhir
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sumitsandhir.sumitsandhir)
+
 🚀 Senior Full Stack Developer | AI & Cloud Enthusiast | 15+ Years in Scalable Platform Engineering  
 📍 Based in Taplow, Berkshire, UK  
 📧 [sumit_sandhir@yahoo.com](mailto:sumit_sandhir@yahoo.com)  
