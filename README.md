@@ -16,7 +16,7 @@ I'm a passionate full-stack developer with over 15 years of experience building 
 - ⚛️ Frontend: React, Next.js, Tailwind, Zustand, GraphQL
 - 🧠 AI/ML: OpenAI (GPT, Whisper), LangChain, Hugging Face, Pinecone
 - ☁️ Cloud: Azure, AKS, Terraform, DevOps
-- 🛠 Backend: Python (FastAPI, Django), Java (Spring Boot), REST APIs
+- 🛠 Backend: Python (FastAPI, Django), Java (Spring Boot), REST APIs, Nodejs
 - 🧩 CMS & Platforms: Contentful, AEM, Streamlit, PowerBI
 
 ---
@@ -60,6 +60,7 @@ I'm a passionate full-stack developer with over 15 years of experience building 
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
 ![REST APIs](https://img.shields.io/badge/-REST_API-000000?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white&style=flat-square)
