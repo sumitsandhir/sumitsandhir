@@ -53,7 +53,7 @@ I'm a passionate full-stack developer with over 15 years of experience building 
 ![LightGBM](https://img.shields.io/badge/-LightGBM-00C853?style=flat-square)
 ![Reactflow](https://img.shields.io/badge/-Reactflow-2962FF?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-2962FO?style=flat-square)
-![Xplainable AI](https://img.shields.io/badge/-XplainableAI-2962FF?style=flat-square)
+![XAI](https://img.shields.io/badge/-XplainableAI-2962FF?style=flat-square)
 
 
 ### ⚙️ Backend & APIs
