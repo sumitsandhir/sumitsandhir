@@ -52,6 +52,7 @@ I'm a passionate full-stack developer with over 15 years of experience building 
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
 ![LightGBM](https://img.shields.io/badge/-LightGBM-00C853?style=flat-square)
 ![Reactflow](https://img.shields.io/badge/-Reactflow-2962FF?style=flat-square)
+![Strwamlit](https://img.shields.io/badge/-Streamlit-2962FO?style=flat-square)
 
 ### ⚙️ Backend & APIs
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
