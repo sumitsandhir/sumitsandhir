@@ -14,7 +14,7 @@
 I'm a passionate full-stack developer with over 15 years of experience building scalable, high-performance web applications and AI-powered platforms. I specialize in:
 
 - ⚛️ Frontend: React, Next.js, Tailwind, Zustand, GraphQL
-- 🧠 AI/ML: OpenAI (GPT, Whisper), LangChain, Hugging Face, Pinecone
+- 🧠 AI/ML: OpenAI (GPT, Whisper), LangChain, Hugging Face, Pinecone, Xplainable AI, Streamlit
 - ☁️ Cloud: Azure, AKS, Terraform, DevOps
 - 🛠 Backend: Python (FastAPI, Django), Java (Spring Boot), REST APIs, Nodejs
 - 🧩 CMS & Platforms: Contentful, AEM, Streamlit, PowerBI
